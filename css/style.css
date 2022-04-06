@@ -1,6 +1,6 @@
 @font-face {
   font-family: Znikomit;
-  src: url(./fonts/Znikomit.otf);
+  src: url(../fonts/Znikomit.otf);
 }
 
 /* font-family: 'Bebas Neue', cursive;
@@ -236,8 +236,8 @@ input, textarea{
   -ms-overflow-style: none;
   scrollbar-width: none;
   background: rgba(255, 255, 255, 0);
-  /* background-image: url(img/fond.jpg); */
-  background-image: url(img/chilirgentine9.jpg);
+  /* background-image: url(../img/fond.jpg); */
+  background-image: url(../img/chilirgentine9.jpg);
   background-size: cover;
 }
 
@@ -353,7 +353,7 @@ div#slide-5 {
 /* photo de profil  */
  .pprofil {
 
-  background-image: url(img/fond-4.jpg);
+  background-image: url(../img/fond-4.jpg);
   opacity: 80%;
   background-size: cover;
   filter: grayscale(1);
@@ -804,11 +804,11 @@ height: calc(100vh);
 /* .carousel */
 
 .carousel-control-next-icon {
-  background-image: url(img/icons/right-arrow.png);
+  background-image: url(../img/icons/right-arrow.png);
   width:64px; height:64px;
 }
 .carousel-control-prev-icon {
-  background-image: url(img/icons/left-arrow.png);
+  background-image: url(../img/icons/left-arrow.png);
   width:64px; height:64px;
 }
 

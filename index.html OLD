@@ -1,14 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body><!DOCTYPE html>
 <html lang="fr">
 
 <head>
@@ -37,8 +27,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="./css/reset.css">
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
     <!-- <link rel="stylesheet" href="diagnostic.css"> -->
     <link rel="shortcut icon" href="./img/icons/favicon.ico" type="image/x-icon">
     <title>Lucas Morille-Roy - Développeur Web et Web Mobile Junior</title>
@@ -198,8 +188,11 @@
                     </div>
                     </div>
                 </div>
-            </div>    
-        </div>        
+            </div>
+           
+            
+        </div>
+        
         <div class="panneau" id="slide-11">
             <h2>Contact</h2>
             <div class="contact">
@@ -258,9 +251,7 @@
             </div>
         </div>
     </div>
-    <script src="./js/script.js"></script>
-
+    <script src="script.js"></script>
 </body>
 
-</html>
 </html>
